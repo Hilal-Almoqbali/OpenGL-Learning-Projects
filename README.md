@@ -1,4 +1,4 @@
 # OpenGL-Learning-Projects
-#Build
+# Build
 just run ```build-xxx.sh```
 then run it by ```./bin/xxx.bin```
